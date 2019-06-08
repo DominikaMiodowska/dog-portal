@@ -1,2 +1,1 @@
 # dog-portal
-![](tindog.png)
